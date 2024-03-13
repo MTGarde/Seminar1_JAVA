@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class seminar1_arrays {
-
+	int i = 0;
 	public static void main(String[] args) {
 		try {
 			double mas[] = generateArray(10, 0.0, 5.0);

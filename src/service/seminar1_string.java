@@ -13,6 +13,7 @@ public class seminar1_string {
 
 
 
+
         return result;
     }
 }
